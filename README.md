@@ -1,7 +1,9 @@
 # Roll-the-Dice
 <p>This is basically a 2 player dice game.</p>
-In this gane, everytime user hit refresh button both dices throws new numbers.
-Depending on these numbers on the die winners get decided.
+In this game, everytime user hit refresh button both dices throws new numbers.
+<p>Depending on these numbers on the die winners get decided.</p>
+
+<img src="https://github.com/Khushi260/Roll-the-Dice/blob/main/dice.png">
 
 # Behind the scences
 <p>Logic behind this game is implemented using Javscript.</p>
